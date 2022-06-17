@@ -1,3 +1,3 @@
 # Digital Innovation One - Santander Bootcamp
 
-### Trilha Kotlin
+### Repositório com projeto de orientação a objetos da Trilha Kotlin
